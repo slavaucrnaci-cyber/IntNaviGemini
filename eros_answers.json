@@ -1,0 +1,362 @@
+[
+  {
+    "id": 301,
+    "period": null,
+    "cluster": "Bio_Libido",
+    "score": 5,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я часто испытываю спонтанное сексуальное желание, даже если рядом нет партнера."
+  },
+  {
+    "id": 302,
+    "period": null,
+    "cluster": "Bio_Libido",
+    "score": 4,
+    "weight": 1,
+    "inversion": false,
+    "question": "Мой уровень сексуальной энергии стабилен и не зависит от фаз настроения."
+  },
+  {
+    "id": 303,
+    "period": null,
+    "cluster": "Bio_Libido",
+    "score": 1,
+    "weight": 1,
+    "inversion": false,
+    "question": "Секс для меня — это в первую очередь способ сбросить накопившееся физическое напряжение."
+  },
+  {
+    "id": 304,
+    "period": null,
+    "cluster": "Bio_Libido",
+    "score": 8,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я чувствую, что моя жизненная сила напрямую связана с моей сексуальной активностью."
+  },
+  {
+    "id": 305,
+    "period": null,
+    "cluster": "Bio_Libido",
+    "score": 1,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я легко восстанавливаюсь и готов к повторению близости через короткое время."
+  },
+  {
+    "id": 306,
+    "period": null,
+    "cluster": "Nagoski_SIS_SES",
+    "score": 4,
+    "weight": 1,
+    "inversion": false,
+    "question": "Мелкие отвлекающие факторы (звук, запах, мысль) мгновенно выключают моё возбуждение."
+  },
+  {
+    "id": 307,
+    "period": null,
+    "cluster": "Nagoski_SIS_SES",
+    "score": 8,
+    "weight": 1,
+    "inversion": false,
+    "question": "Мне необходимо чувство полной безопасности и уединения для того, чтобы тело 'включилось'."
+  },
+  {
+    "id": 308,
+    "period": null,
+    "cluster": "Nagoski_SIS_SES",
+    "score": 8,
+    "weight": 1,
+    "inversion": false,
+    "question": "Стресс на работе или финансовые тревоги блокируют моё желание на длительное время."
+  },
+  {
+    "id": 309,
+    "period": null,
+    "cluster": "Nagoski_SIS_SES",
+    "score": 1,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я могу игнорировать дискомфорт в теле ради достижения оргазма."
+  },
+  {
+    "id": 310,
+    "period": null,
+    "cluster": "Nagoski_SIS_SES",
+    "score": 5,
+    "weight": 1,
+    "inversion": false,
+    "question": "Мое возбуждение нарастает медленно и требует длительной настройки."
+  },
+  {
+    "id": 311,
+    "period": null,
+    "cluster": "Bowlby_Attachment",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "После близости мне жизненно необходим тактильный контакт ('объятия'), чтобы не чувствовать себя брошенным."
+  },
+  {
+    "id": 312,
+    "period": null,
+    "cluster": "Bowlby_Attachment",
+    "score": 5,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я склонен использовать секс, чтобы помириться после конфликта или загладить вину."
+  },
+  {
+    "id": 313,
+    "period": null,
+    "cluster": "Bowlby_Attachment",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я чувствую тревогу, если партнер дистанцируется сразу после завершения акта."
+  },
+  {
+    "id": 314,
+    "period": null,
+    "cluster": "Bowlby_Attachment",
+    "score": 10,
+    "weight": 1,
+    "inversion": false,
+    "question": "Для меня секс без глубокой эмоциональной привязанности не имеет смысла."
+  },
+  {
+    "id": 315,
+    "period": null,
+    "cluster": "Bowlby_Attachment",
+    "score": 5,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я боюсь, что моя страсть может 'поглотить' или напугать партнера."
+  },
+  {
+    "id": 316,
+    "period": null,
+    "cluster": "Gagnon_Scripts",
+    "score": 5,
+    "weight": 1,
+    "inversion": false,
+    "question": "В сексе я часто ловлю себя на том, что играю привычную роль, стараясь соответствовать ожиданиям."
+  },
+  {
+    "id": 317,
+    "period": null,
+    "cluster": "Gagnon_Scripts",
+    "score": 5,
+    "weight": 1,
+    "inversion": false,
+    "question": "У меня есть повторяющийся 'сценарий' в голове, без которого мне трудно возбудиться."
+  },
+  {
+    "id": 318,
+    "period": null,
+    "cluster": "Gagnon_Scripts",
+    "score": 1,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я часто фантазирую о ситуациях, где я теряю контроль над своим образом."
+  },
+  {
+    "id": 319,
+    "period": null,
+    "cluster": "Gagnon_Scripts",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Мои сексуальные предпочтения сильно изменились после определенного жизненного опыта."
+  },
+  {
+    "id": 320,
+    "period": null,
+    "cluster": "Gagnon_Scripts",
+    "score": 10,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я осознаю, какие фильмы или книги сформировали мои текущие желания."
+  },
+  {
+    "id": 321,
+    "period": null,
+    "cluster": "Schnarch_Diff",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я могу сохранять верность своим желаниям, даже если партнер выражает недовольство."
+  },
+  {
+    "id": 322,
+    "period": null,
+    "cluster": "Schnarch_Diff",
+    "score": 5,
+    "weight": 1,
+    "inversion": false,
+    "question": "Мне трудно сказать 'нет', если я вижу, что партнер очень хочет близости."
+  },
+  {
+    "id": 323,
+    "period": null,
+    "cluster": "Schnarch_Diff",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я чувствую ответственность за удовольствие партнера больше, чем за свое собственное."
+  },
+  {
+    "id": 324,
+    "period": null,
+    "cluster": "Schnarch_Diff",
+    "score": 8,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я могу обсуждать свои самые 'странные' желания прямо и без страха отвержения."
+  },
+  {
+    "id": 325,
+    "period": null,
+    "cluster": "Schnarch_Diff",
+    "score": 5,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я не завишу от одобрения партнера в вопросах своей привлекательности."
+  },
+  {
+    "id": 326,
+    "period": null,
+    "cluster": "Jung_Shadow",
+    "score": 5,
+    "weight": 1,
+    "inversion": false,
+    "question": "У меня есть фантазии, которые вызывают у меня сильный стыд или страх осуждения."
+  },
+  {
+    "id": 327,
+    "period": null,
+    "cluster": "Jung_Shadow",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Меня привлекают 'запретные' темы, которые противоречат моим моральным принципам."
+  },
+  {
+    "id": 328,
+    "period": null,
+    "cluster": "Jung_Shadow",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я скрываю часть своих истинных желаний даже от самых близких людей."
+  },
+  {
+    "id": 329,
+    "period": null,
+    "cluster": "Jung_Shadow",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Иногда я чувствую внутри 'темную силу', которая требует выхода через секс."
+  },
+  {
+    "id": 330,
+    "period": null,
+    "cluster": "Jung_Shadow",
+    "score": 1,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я часто осуждаю других за те сексуальные проявления, которые тайно манят меня."
+  },
+  {
+    "id": 331,
+    "period": null,
+    "cluster": "Energy_Tantra",
+    "score": 8,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я умею осознанно перемещать фокус внимания из гениталий в другие части тела."
+  },
+  {
+    "id": 332,
+    "period": null,
+    "cluster": "Energy_Tantra",
+    "score": 8,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я использую дыхательные техники для управления интенсивностью возбуждения."
+  },
+  {
+    "id": 333,
+    "period": null,
+    "cluster": "Energy_Tantra",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Секс для меня является формой глубокой медитации или транса."
+  },
+  {
+    "id": 334,
+    "period": null,
+    "cluster": "Energy_Tantra",
+    "score": 8,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я чувствую движение 'потоков энергии' в теле во время интимности."
+  },
+  {
+    "id": 335,
+    "period": null,
+    "cluster": "Energy_Tantra",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Я практикую задержку оргазма для трансформации энергии в творчество или интеллект."
+  },
+  {
+    "id": 336,
+    "period": null,
+    "cluster": "Identity_RSS",
+    "score": 8,
+    "weight": 1,
+    "inversion": false,
+    "question": "Чувствовали ли вы в детстве, что ваш пол или внешний вид были предметом манипуляций взрослых?"
+  },
+  {
+    "id": 337,
+    "period": null,
+    "cluster": "Identity_RSS",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Насколько часто вы чувствуете, что ваше тело — это 'костюм', а не вы сами?"
+  },
+  {
+    "id": 338,
+    "period": null,
+    "cluster": "Identity_RSS",
+    "score": 8,
+    "weight": 1,
+    "inversion": false,
+    "question": "Связан ли ваш сексуальный стыд с ощущением, что вы 'неправильный' мужчина/женщина?"
+  },
+  {
+    "id": 339,
+    "period": null,
+    "cluster": "Identity_RSS",
+    "score": 8,
+    "weight": 1,
+    "inversion": false,
+    "question": "Испытываете ли вы возбуждение от смены ролей или 'подмены' своей идентичности?"
+  },
+  {
+    "id": 340,
+    "period": null,
+    "cluster": "Identity_RSS",
+    "score": 9,
+    "weight": 1,
+    "inversion": false,
+    "question": "Является ли секс для вас единственным местом, где вы можете быть 'собой' без масок?"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "CASE_6_RELIGION",
+  "options": [
+    {
+      "text": "Доказывать фактами...",
+      "impact": {
+        "graves": "ORANGE",
+        "piaget": "FORMAL_OPERATIONS",
+        "kohlberg": "CONTRACTUAL",
+        "levinger": "SELF_AWARE", // Добавили
+        "gebser": "MENTAL",      // Добавили
+        "fowler": "INDIVIDUATION" // Добавили
+      }
+    },
+    {
+      "text": "У каждого своя правда...",
+      "impact": {
+        "graves": "GREEN",
+        "levinger": "INDIVIDUALIST",
+        "gebser": "LATE_MENTAL",
+        "fowler": "REFLECTIVE"
+      }
+    },
+    {
+      "text": "Увижу психологическую функцию...",
+      "impact": {
+        "graves": "YELLOW",
+        "piaget": "POST_FORMAL",
+        "levinger": "AUTONOMOUS",
+        "gebser": "INTEGRAL",
+        "fowler": "CONJUNCTIVE"
+      }
+    }
+  ]
+}

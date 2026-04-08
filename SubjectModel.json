@@ -1,0 +1,14 @@
+{
+    "dominant_graves": "YELLOW",
+    "dominant_piaget": "POST_FORMAL",
+    "dominant_kohlberg": "UNIVERSAL",
+    "piaget_score": 6.8,
+    "kohlberg_score": 6.5,
+    "raw_stats": {
+        "dominant_graves": "YELLOW",
+        "dominant_piaget": "POST_FORMAL",
+        "dominant_kohlberg": "UNIVERSAL",
+        "dominant_levinger": "AUTONOMOUS",
+        "dominant_gebser": "INTEGRAL"
+    }
+}

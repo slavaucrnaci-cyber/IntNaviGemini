@@ -1,0 +1,172 @@
+[
+  {
+    "id": "CASE_1_HEINZ",
+    "options": [
+      {
+        "id": "A",
+        "impact": { "role": "lawyer", "graves": "BLUE", "piaget": "CONCRETE", "kohlberg": "LAW_ORDER", "levinger": "CONFORMIST", "gebser": "MYTHIC" }
+      },
+      {
+        "id": "B",
+        "impact": { "role": "peacekeeper", "graves": "GREEN", "piaget": "FORMAL", "kohlberg": "POST_CONV", "levinger": "INDIVIDUALIST", "gebser": "LATE_MENTAL" }
+      },
+      {
+        "id": "C",
+        "impact": { "role": "conqueror", "graves": "RED", "piaget": "PRE_OP", "kohlberg": "INSTRUMENTAL", "levinger": "SELF_PROTECT", "gebser": "MAGIC" }
+      }
+    ]
+  },
+  {
+    "id": "CASE_2_PROJECT",
+    "options": [
+      {
+        "id": "A",
+        "impact": { "role": "strategist", "graves": "ORANGE", "piaget": "FORMAL", "kohlberg": "SOCIAL_CONTRACT", "levinger": "SELF_AWARE", "gebser": "MENTAL" }
+      },
+      {
+        "id": "B",
+        "impact": { "role": "guardian", "graves": "PURPLE", "piaget": "CONCRETE", "kohlberg": "GOOD_BOY", "levinger": "CONFORMIST", "gebser": "MAGIC_MYTHIC" }
+      },
+      {
+        "id": "C",
+        "impact": { "role": "integrator", "graves": "YELLOW", "piaget": "POST_FORMAL", "kohlberg": "UNIVERSAL", "levinger": "AUTONOMOUS", "gebser": "INTEGRAL" }
+      }
+    ]
+  },
+  {
+    "id": "CASE_3_TRUTH",
+    "options": [
+      {
+        "id": "A",
+        "impact": { "role": "guardian", "graves": "PURPLE", "piaget": "CONCRETE", "kohlberg": "GOOD_BOY", "levinger": "SYMBIOTIC", "gebser": "MAGIC" }
+      },
+      {
+        "id": "B",
+        "impact": { "role": "lawyer", "graves": "BLUE", "piaget": "CONCRETE", "kohlberg": "LAW_ORDER", "levinger": "CONFORMIST", "gebser": "MYTHIC" }
+      },
+      {
+        "id": "C",
+        "impact": { "role": "integrator", "graves": "YELLOW", "piaget": "POST_FORMAL", "kohlberg": "SOCIAL_CONTRACT", "levinger": "AUTONOMOUS", "gebser": "INTEGRAL" }
+      }
+    ]
+  },
+  {
+    "id": "CASE_4_POWER",
+    "options": [
+      {
+        "id": "A",
+        "impact": { "role": "conqueror", "graves": "RED", "piaget": "PRE_OP", "kohlberg": "INSTRUMENTAL", "levinger": "SELF_PROTECT", "gebser": "MAGIC" }
+      },
+      {
+        "id": "B",
+        "impact": { "role": "lawyer", "graves": "BLUE", "piaget": "CONCRETE", "kohlberg": "LAW_ORDER", "levinger": "CONFORMIST", "gebser": "MYTHIC" }
+      },
+      {
+        "id": "C",
+        "impact": { "role": "integrator", "graves": "YELLOW", "piaget": "POST_FORMAL", "kohlberg": "UNIVERSAL", "levinger": "INTEGRATED", "gebser": "INTEGRAL" }
+      }
+    ]
+  },
+  {
+    "id": "CASE_5_MISTAKE",
+    "options": [
+      {
+        "id": "A",
+        "impact": { "role": "lawyer", "graves": "BLUE", "piaget": "CONCRETE", "kohlberg": "LAW_ORDER", "levinger": "CONFORMIST", "gebser": "MYTHIC" }
+      },
+      {
+        "id": "B",
+        "impact": { "role": "strategist", "graves": "ORANGE", "piaget": "FORMAL", "kohlberg": "SOCIAL_CONTRACT", "levinger": "SELF_AWARE", "gebser": "MENTAL" }
+      },
+      {
+        "id": "C",
+        "impact": { "role": "peacekeeper", "graves": "GREEN", "piaget": "FORMAL", "kohlberg": "GOOD_BOY", "levinger": "INDIVIDUALIST", "gebser": "LATE_MENTAL" }
+      }
+    ]
+  },
+  {
+    "id": "CASE_6_RELIGION",
+    "options": [
+      {
+        "id": "A",
+        "impact": { "role": "strategist", "graves": "ORANGE", "piaget": "FORMAL", "kohlberg": "SOCIAL_CONTRACT", "levinger": "SELF_AWARE", "gebser": "MENTAL" }
+      },
+      {
+        "id": "B",
+        "impact": { "role": "peacekeeper", "graves": "GREEN", "piaget": "FORMAL", "kohlberg": "POST_CONV", "levinger": "INDIVIDUALIST", "gebser": "LATE_MENTAL" }
+      },
+      {
+        "id": "C",
+        "impact": { "role": "integrator", "graves": "YELLOW", "piaget": "POST_FORMAL", "kohlberg": "UNIVERSAL", "levinger": "AUTONOMOUS", "gebser": "INTEGRAL" }
+      }
+    ]
+  },
+  {
+    "id": "CASE_7_MONEY",
+    "options": [
+      {
+        "id": "A",
+        "impact": { "role": "strategist", "graves": "ORANGE", "piaget": "FORMAL", "kohlberg": "INSTRUMENTAL", "levinger": "SELF_PROTECT", "gebser": "MENTAL" }
+      },
+      {
+        "id": "B",
+        "impact": { "role": "peacekeeper", "graves": "GREEN", "piaget": "FORMAL", "kohlberg": "POST_CONV", "levinger": "INDIVIDUALIST", "gebser": "LATE_MENTAL" }
+      },
+      {
+        "id": "C",
+        "impact": { "role": "integrator", "graves": "YELLOW", "piaget": "POST_FORMAL", "kohlberg": "SOCIAL_CONTRACT", "levinger": "AUTONOMOUS", "gebser": "INTEGRAL" }
+      }
+    ]
+  },
+  {
+    "id": "CASE_8_TRADITION",
+    "options": [
+      {
+        "id": "A",
+        "impact": { "role": "guardian", "graves": "PURPLE", "piaget": "CONCRETE", "kohlberg": "GOOD_BOY", "levinger": "CONFORMIST", "gebser": "MYTHIC" }
+      },
+      {
+        "id": "B",
+        "impact": { "role": "conqueror", "graves": "RED", "piaget": "FORMAL", "kohlberg": "INSTRUMENTAL", "levinger": "SELF_PROTECT", "gebser": "MENTAL" }
+      },
+      {
+        "id": "C",
+        "impact": { "role": "integrator", "graves": "YELLOW", "piaget": "POST_FORMAL", "kohlberg": "UNIVERSAL", "levinger": "AUTONOMOUS", "gebser": "INTEGRAL" }
+      }
+    ]
+  },
+  {
+    "id": "CASE_9_CONFLICT",
+    "options": [
+      {
+        "id": "A",
+        "impact": { "role": "lawyer", "graves": "BLUE", "piaget": "CONCRETE", "kohlberg": "LAW_ORDER", "levinger": "CONFORMIST", "gebser": "MYTHIC" }
+      },
+      {
+        "id": "B",
+        "impact": { "role": "conqueror", "graves": "RED", "piaget": "PRE_OP", "kohlberg": "INSTRUMENTAL", "levinger": "SELF_PROTECT", "gebser": "MAGIC" }
+      },
+      {
+        "id": "C",
+        "impact": { "role": "peacekeeper", "graves": "YELLOW", "piaget": "POST_FORMAL", "kohlberg": "POST_CONV", "levinger": "INDIVIDUALIST", "gebser": "INTEGRAL" }
+      }
+    ]
+  },
+  {
+    "id": "CASE_10_FUTURE",
+    "options": [
+      {
+        "id": "A",
+        "impact": { "role": "lawyer", "graves": "BLUE", "piaget": "CONCRETE", "kohlberg": "LAW_ORDER", "levinger": "CONFORMIST", "gebser": "MYTHIC" }
+      },
+      {
+        "id": "B",
+        "impact": { "role": "strategist", "graves": "ORANGE", "piaget": "FORMAL", "kohlberg": "SOCIAL_CONTRACT", "levinger": "SELF_AWARE", "gebser": "MENTAL" }
+      },
+      {
+        "id": "C",
+        "impact": { "role": "integrator", "graves": "YELLOW", "piaget": "POST_FORMAL", "kohlberg": "UNIVERSAL", "levinger": "AUTONOMOUS", "gebser": "INTEGRAL" }
+      }
+    ]
+  }
+]

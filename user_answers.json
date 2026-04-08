@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "period": "0-2_years",
+    "cluster": "Safety",
+    "score": 1,
+    "weight": 5,
+    "inversion": true,
+    "question": "Чувствовали ли вы себя в безопасности и тепле в своей кроватке?"
+  },
+  {
+    "id": 2,
+    "period": "0-2_years",
+    "cluster": "Physical_Needs",
+    "score": 1,
+    "weight": 5,
+    "inversion": true,
+    "question": "Как быстро взрослые подходили к вам, когда вы плакали от голода или дискомфорта?"
+  },
+  {
+    "id": 3,
+    "period": "0-2_years",
+    "cluster": "Emotional_Bond",
+    "score": 1,
+    "weight": 4,
+    "inversion": true,
+    "question": "Помните ли вы (или знаете по рассказам) много ласковых прикосновений и объятий?"
+  },
+  {
+    "id": 4,
+    "period": "0-2_years",
+    "cluster": "Trust",
+    "score": 1,
+    "weight": 5,
+    "inversion": true,
+    "question": "Могли ли вы положиться на то, что мама всегда будет рядом, когда она нужна?"
+  },
+  {
+    "id": 5,
+    "period": "0-2_years",
+    "cluster": "Health",
+    "score": 1,
+    "weight": 5,
+    "inversion": true,
+    "question": "Были ли в этот период тяжелые болезни или операции, разлучавшие вас с семьей?"
+  },
+  {
+    "id": 6,
+    "period": "0-2_years",
+    "cluster": "Environment",
+    "score": 1,
+    "weight": 4,
+    "inversion": true,
+    "question": "Была ли обстановка дома тихой и предсказуемой?"
+  },
+  {
+    "id": 7,
+    "period": "0-2_years",
+    "cluster": "Feeding",
+    "score": 1,
+    "weight": 3,
+    "inversion": true,
+    "question": "Был ли процесс кормления спокойным и приятным для вас?"
+  },
+  {
+    "id": 8,
+    "period": "0-2_years",
+    "cluster": "Sleep",
+    "score": 1,
+    "weight": 3,
+    "inversion": true,
+    "question": "Насколько легко и спокойно вы засыпали по ночам?"
+  },
+  {
+    "id": 9,
+    "period": "0-2_years",
+    "cluster": "Sensory",
+    "score": 1,
+    "weight": 3,
+    "inversion": true,
+    "question": "Были ли в доме резкие неприятные запахи или пугающие звуки?"
+  },
+  {
+    "id": 10,
+    "period": "0-2_years",
+    "cluster": "General_Tone",
+    "score": 1,
+    "weight": 5,
+    "inversion": true,
+    "question": "В целом, мир в этом возрасте казался вам добрым местом?"
+  },
+  {
+    "id": 11,
+    "period": "2-4_years",
+    "cluster": "Autonomy",
+    "score": 5,
+    "weight": 4,
+    "inversion": true,
+    "question": "Разрешали ли вам проявлять самостоятельность (самому держать ложку, выбирать игрушку)?"
+  },
+  {
+    "id": 12,
+    "period": "2-4_years",
+    "cluster": "Cleanliness",
+    "score": 5,
+    "weight": 4,
+    "inversion": true,
+    "question": "Как проходило приучение к чистоте (горшку)? Было ли это мягким процессом?"
+  },
+  {
+    "id": 13,
+    "period": "2-4_years",
+    "cluster": "Boundaries",
+    "score": 2,
+    "weight": 5,
+    "inversion": true,
+    "question": "Уважали ли взрослые ваше право сказать «Нет»?"
+  },
+  {
+    "id": 14,
+    "period": "2-4_years",
+    "cluster": "Exploration",
+    "score": 5,
+    "weight": 3,
+    "inversion": true,
+    "question": "Могли ли вы свободно изучать дом и ломать/разбирать вещи без страха наказания?"
+  },
+  {
+    "id": 15,
+    "period": "2-4_years",
+    "cluster": "Separation_Anxiety",
+    "score": 3,
+    "weight": 4,
+    "inversion": true,
+    "question": "Как вы переносили короткие разлуки с родителями (например, поход в садик)?"
+  },
+  {
+    "id": 16,
+    "period": "2-4_years",
+    "cluster": "Physical_Punishment",
+    "score": 9,
+    "weight": 5,
+    "inversion": true,
+    "question": "Применяли ли к вам физические наказания (шлепки) за непослушание?"
+  },
+  {
+    "id": 17,
+    "period": "2-4_years",
+    "cluster": "Emotions",
+    "score": 4,
+    "weight": 4,
+    "inversion": true,
+    "question": "Разрешалось ли вам плакать или злиться, когда вам было плохо?"
+  },
+  {
+    "id": 18,
+    "period": "2-4_years",
+    "cluster": "Play",
+    "score": 4,
+    "weight": 3,
+    "inversion": true,
+    "question": "Играли ли родители вместе с вами на полу, вовлекаясь в ваш мир?"
+  },
+  {
+    "id": 19,
+    "period": "2-4_years",
+    "cluster": "Stability",
+    "score": 5,
+    "weight": 4,
+    "inversion": true,
+    "question": "Были ли правила в доме понятными и одинаковыми каждый день?"
+  },
+  {
+    "id": 20,
+    "period": "2-4_years",
+    "cluster": "Self_Worth",
+    "score": 4,
+    "weight": 5,
+    "inversion": true,
+    "question": "Чувствовали ли вы себя «хорошим ребенком» в глазах родителей?"
+  },
+  {
+    "id": 21,
+    "period": "4-6_years",
+    "cluster": "Initiative",
+    "score": 5,
+    "weight": 4,
+    "inversion": true,
+    "question": "Поддерживали ли родители ваши идеи (построить замок, нарисовать на стене)?"
+  },
+  {
+    "id": 22,
+    "period": "4-6_years",
+    "cluster": "Gender",
+    "score": 3,
+    "weight": 5,
+    "inversion": true,
+    "question": "Чувствовали ли вы принятие своего пола (мальчик/девочка) со стороны отца и матери?"
+  },
+  {
+    "id": 23,
+    "period": "4-6_years",
+    "cluster": "Social_Skills",
+    "score": 2,
+    "weight": 3,
+    "inversion": true,
+    "question": "Легко ли вам было заводить друзей на детской площадке?"
+  },
+  {
+    "id": 24,
+    "period": "4-6_years",
+    "cluster": "Imagination",
+    "score": 4,
+    "weight": 2,
+    "inversion": true,
+    "question": "Принимали ли взрослые ваши выдумки и воображаемых друзей?"
+  },
+  {
+    "id": 25,
+    "period": "4-6_years",
+    "cluster": "Competition",
+    "score": 8,
+    "weight": 4,
+    "inversion": true,
+    "question": "Сравнивали ли вас с другими детьми («А вот Петя ведет себя лучше»)?"
+  },
+  {
+    "id": 26,
+    "period": "4-6_years",
+    "cluster": "Protection",
+    "score": 5,
+    "weight": 5,
+    "inversion": true,
+    "question": "Защищали ли вас родители, если вас обижали другие дети или взрослые?"
+  },
+  {
+    "id": 27,
+    "period": "4-6_years",
+    "cluster": "Curiosity",
+    "score": 5,
+    "weight": 3,
+    "inversion": true,
+    "question": "Отвечали ли взрослые на ваши бесконечные вопросы «Почему?»"
+  },
+  {
+    "id": 28,
+    "period": "4-6_years",
+    "cluster": "Role_Models",
+    "score": 2,
+    "weight": 5,
+    "inversion": true,
+    "question": "Был ли отец (или мужская фигура) примером силы и доброты для вас?"
+  },
+  {
+    "id": 29,
+    "period": "4-6_years",
+    "cluster": "Fear",
+    "score": 2,
+    "weight": 4,
+    "inversion": true,
+    "question": "Были ли у вас сильные ночные страхи (монстры под кроватью) и помогали ли вам с ними?"
+  },
+  {
+    "id": 30,
+    "period": "4-6_years",
+    "cluster": "Joy",
+    "score": 5,
+    "weight": 5,
+    "inversion": true,
+    "question": "Было ли в вашем детстве в этом возрасте много искреннего смеха и радости?"
+  },
+  {
+    "id": 31,
+    "period": "7-9_years",
+    "cluster": "School_Adaptation",
+    "score": 3,
+    "weight": 4,
+    "inversion": true,
+    "question": "Насколько легко вы привыкли к школьным правилам и дисциплине?"
+  },
+  {
+    "id": 32,
+    "period": "7-9_years",
+    "cluster": "Grades",
+    "score": 3,
+    "weight": 5,
+    "inversion": true,
+    "question": "Как родители реагировали на ваши плохие оценки или ошибки?"
+  },
+  {
+    "id": 33,
+    "period": "7-9_years",
+    "cluster": "Competence",
+    "score": 3,
+    "weight": 4,
+    "inversion": true,
+    "question": "Чувствовали ли вы себя умным и способным по сравнению с одноклассниками?"
+  },
+  {
+    "id": 34,
+    "period": "7-9_years",
+    "cluster": "Teacher_Relation",
+    "score": 4,
+    "weight": 5,
+    "inversion": true,
+    "question": "Были ли у вас учителя, которые подавляли или унижали вас перед классом?"
+  },
+  {
+    "id": 35,
+    "period": "7-9_years",
+    "cluster": "Responsibility",
+    "score": 3,
+    "weight": 4,
+    "inversion": true,
+    "question": "Нагружали ли вас домашними делами сверх ваших сил?"
+  },
+  {
+    "id": 36,
+    "period": "7-9_years",
+    "cluster": "Peer_Pressure",
+    "score": 5,
+    "weight": 5,
+    "inversion": true,
+    "question": "Были ли вы жертвой травли (буллинга) в начальной школе?"
+  },
+  {
+    "id": 37,
+    "period": "7-9_years",
+    "cluster": "Hobbies",
+    "score": 3,
+    "weight": 3,
+    "inversion": true,
+    "question": "Разрешали ли вам заниматься тем, что нравится (кружки, секции), а не тем, что выбрали родители?"
+  },
+  {
+    "id": 38,
+    "period": "7-9_years",
+    "cluster": "Truth",
+    "score": 2,
+    "weight": 4,
+    "inversion": true,
+    "question": "Приходилось ли вам часто врать родителям, чтобы избежать наказания?"
+  },
+  {
+    "id": 39,
+    "period": "7-9_years",
+    "cluster": "Success",
+    "score": 5,
+    "weight": 3,
+    "inversion": true,
+    "question": "Хвалили ли вас за ваши маленькие достижения (поделки, чистую тетрадь)?"
+  },
+  {
+    "id": 40,
+    "period": "7-9_years",
+    "cluster": "General_Safety",
+    "score": 3,
+    "weight": 4,
+    "inversion": true,
+    "question": "В целом, школа и путь домой казались вам безопасными?"
+  },
+  {
+    "id": 41,
+    "period": "9-12_years",
+    "cluster": "Logic",
+    "score": 3,
+    "weight": 3,
+    "inversion": true,
+    "question": "Уважали ли взрослые ваши аргументы в спорах, если вы были правы?"
+  },
+  {
+    "id": 42,
+    "period": "9-12_years",
+    "cluster": "Friendship",
+    "score": 3,
+    "weight": 4,
+    "inversion": true,
+    "question": "Были ли у вас близкие друзья, которым вы доверяли свои секреты?"
+  },
+  {
+    "id": 43,
+    "period": "9-12_years",
+    "cluster": "Body_Image",
+    "score": 4,
+    "weight": 4,
+    "inversion": true,
+    "question": "Как вы относились к своему телу в преддверии подросткового возраста?"
+  },
+  {
+    "id": 44,
+    "period": "9-12_years",
+    "cluster": "Privacy",
+    "score": 5,
+    "weight": 4,
+    "inversion": true,
+    "question": "Было ли у вас личное пространство (свой стол, ящик), куда никто не заходил без спроса?"
+  },
+  {
+    "id": 45,
+    "period": "9-12_years",
+    "cluster": "Money",
+    "score": 3,
+    "weight": 3,
+    "inversion": true,
+    "question": "Давали ли вам карманные деньги и учили ли ими распоряжаться?"
+  },
+  {
+    "id": 46,
+    "period": "9-12_years",
+    "cluster": "Justice",
+    "score": 3,
+    "weight": 5,
+    "inversion": true,
+    "question": "Справедливо ли к вам относились дома по сравнению с братьями/сестрами?"
+  },
+  {
+    "id": 47,
+    "period": "9-12_years",
+    "cluster": "Intellect",
+    "score": 4,
+    "weight": 4,
+    "inversion": true,
+    "question": "Считали ли в семье вас умным и способным человеком?"
+  },
+  {
+    "id": 48,
+    "period": "9-12_years",
+    "cluster": "Group_Status",
+    "score": 5,
+    "weight": 4,
+    "inversion": true,
+    "question": "Насколько комфортно вы чувствовали себя в иерархии класса/группы?"
+  },
+  {
+    "id": 49,
+    "period": "9-12_years",
+    "cluster": "Family_Secrets",
+    "score": 9,
+    "weight": 4,
+    "inversion": true,
+    "question": "Были ли в семье тяжелые тайны, которые вам запрещали обсуждать?"
+  },
+  {
+    "id": 50,
+    "period": "9-12_years",
+    "cluster": "Support",
+    "score": 3,
+    "weight": 5,
+    "inversion": true,
+    "question": "Могли ли вы прийти к родителям с большой проблемой и получить помощь, а не нотацию?"
+  },
+  {
+    "id": 51,
+    "period": "12-14_years",
+    "cluster": "Rebellion",
+    "score": 3,
+    "weight": 4,
+    "inversion": true,
+    "question": "Разрешалось ли вам иметь собственное мнение, отличное от мнения родителей?"
+  },
+  {
+    "id": 52,
+    "period": "12-14_years",
+    "cluster": "Puberty",
+    "score": 3,
+    "weight": 5,
+    "inversion": true,
+    "question": "Помогали ли вам родители понять изменения в вашем теле (половое созревание)?"
+  },
+  {
+    "id": 53,
+    "period": "12-14_years",
+    "cluster": "Social_Identity",
+    "score": 9,
+    "weight": 3,
+    "inversion": true,
+    "question": "Чувствовали ли вы принадлежность к какой-то молодежной субкультуре или группе?"
+  },
+  {
+    "id": 54,
+    "period": "12-14_years",
+    "cluster": "Appearance",
+    "score": 5,
+    "weight": 3,
+    "inversion": true,
+    "question": "Разрешали ли вам экспериментировать с внешностью (одежда, прическа)?"
+  },
+  {
+    "id": 55,
+    "period": "12-14_years",
+    "cluster": "Criticism",
+    "score": 5,
+    "weight": 5,
+    "inversion": true,
+    "question": "Как часто вы слышали критику в адрес своей личности, а не поступков?"
+  },
+  {
+    "id": 56,
+    "period": "12-14_years",
+    "cluster": "Authority",
+    "score": 2,
+    "weight": 5,
+    "inversion": true,
+    "question": "Оставались ли родители для вас авторитетами, которых вы уважали (а не боялись)?"
+  },
+  {
+    "id": 57,
+    "period": "12-14_years",
+    "cluster": "Independence",
+    "score": 4,
+    "weight": 3,
+    "inversion": true,
+    "question": "Могли ли вы самостоятельно ездить на транспорте или гулять допоздна?"
+  },
+  {
+    "id": 58,
+    "period": "12-14_years",
+    "cluster": "Loneliness",
+    "score": 5,
+    "weight": 5,
+    "inversion": true,
+    "question": "Часто ли вы чувствовали себя тотально одиноким и непонятым дома?"
+  },
+  {
+    "id": 59,
+    "period": "12-14_years",
+    "cluster": "First_Love",
+    "score": 5,
+    "weight": 4,
+    "inversion": true,
+    "question": "Как родители реагировали на ваши первые симпатии или влюбленности?"
+  },
+  {
+    "id": 60,
+    "period": "12-14_years",
+    "cluster": "Life_Meaning",
+    "score": 3,
+    "weight": 3,
+    "inversion": true,
+    "question": "Задумывались ли вы о смысле жизни, и было ли с кем это обсудить?"
+  },
+  {
+    "id": 61,
+    "period": "14-16_years",
+    "cluster": "Separation",
+    "score": 4,
+    "weight": 5,
+    "inversion": true,
+    "question": "Чувствовали ли вы, что родители готовы постепенно «отпускать» вас во взрослую жизнь?"
+  },
+  {
+    "id": 62,
+    "period": "14-16_years",
+    "cluster": "Values",
+    "score": 4,
+    "weight": 4,
+    "inversion": true,
+    "question": "Могли ли вы открыто обсуждать свои политические или религиозные взгляды дома?"
+  },
+  {
+    "id": 63,
+    "period": "14-16_years",
+    "cluster": "Romantic_Relations",
+    "score": 5,
+    "weight": 5,
+    "inversion": true,
+    "question": "Был ли у вас опыт здоровых первых отношений без абьюза?"
+  },
+  {
+    "id": 64,
+    "period": "14-16_years",
+    "cluster": "Alcohol_Drugs",
+    "score": 1,
+    "weight": 5,
+    "inversion": true,
+    "question": "Сталкивались ли вы с давлением среды попробовать психоактивные вещества?"
+  },
+  {
+    "id": 65,
+    "period": "14-16_years",
+    "cluster": "Career_Choice",
+    "score": 9,
+    "weight": 4,
+    "inversion": true,
+    "question": "Давили ли на вас в вопросе выбора будущей профессии?"
+  },
+  {
+    "id": 66,
+    "period": "14-16_years",
+    "cluster": "Self_Expression",
+    "score": 5,
+    "weight": 5,
+    "inversion": true,
+    "question": "Чувствовали ли вы себя уникальной личностью, а не просто «ребенком своих родителей»?"
+  },
+  {
+    "id": 67,
+    "period": "14-16_years",
+    "cluster": "Home_Comfort",
+    "score": 2,
+    "weight": 5,
+    "inversion": true,
+    "question": "Хотелось ли вам возвращаться домой после школы/прогулки?"
+  },
+  {
+    "id": 68,
+    "period": "14-16_years",
+    "cluster": "Secrets",
+    "score": 9,
+    "weight": 4,
+    "inversion": true,
+    "question": "Были ли у вас тайны от родителей, которые вызывали сильное чувство стыда?"
+  },
+  {
+    "id": 69,
+    "period": "14-16_years",
+    "cluster": "Motivation",
+    "score": 9,
+    "weight": 3,
+    "inversion": true,
+    "question": "Была ли у вас внутренняя страсть к какому-то делу (спорт, музыка, наука)?"
+  },
+  {
+    "id": 70,
+    "period": "14-16_years",
+    "cluster": "Role_Identity",
+    "score": 5,
+    "weight": 4,
+    "inversion": true,
+    "question": "Понимали ли вы, каким мужчиной/женщиной вы хотите стать?"
+  },
+  {
+    "id": 71,
+    "period": "16-18_years",
+    "cluster": "Final_Responsibility",
+    "score": 5,
+    "weight": 5,
+    "inversion": true,
+    "question": "Чувствовали ли вы себя готовым взять ответственность за свою жизнь?"
+  },
+  {
+    "id": 72,
+    "period": "16-18_years",
+    "cluster": "Financial_Independence",
+    "score": 2,
+    "weight": 4,
+    "inversion": true,
+    "question": "Были ли у вас первые попытки заработать или планировать бюджет?"
+  },
+  {
+    "id": 73,
+    "period": "16-18_years",
+    "cluster": "Worldview",
+    "score": 8,
+    "weight": 4,
+    "inversion": true,
+    "question": "Сформировалось ли у вас собственное понимание добра и зла?"
+  },
+  {
+    "id": 74,
+    "period": "16-18_years",
+    "cluster": "Departure",
+    "score": 4,
+    "weight": 5,
+    "inversion": true,
+    "question": "Был ли ваш уход (или мысли об уходе) из родительского дома мирным?"
+  },
+  {
+    "id": 75,
+    "period": "16-18_years",
+    "cluster": "Intimacy",
+    "score": 8,
+    "weight": 5,
+    "inversion": true,
+    "question": "Способны ли вы были к этому возрасту на глубокую искреннюю близость?"
+  },
+  {
+    "id": 76,
+    "period": "16-18_years",
+    "cluster": "Self_Acceptance",
+    "score": 7,
+    "weight": 4,
+    "inversion": true,
+    "question": "Принимали ли вы свои недостатки без самобичевания?"
+  },
+  {
+    "id": 77,
+    "period": "16-18_years",
+    "cluster": "Future_Vision",
+    "score": 2,
+    "weight": 4,
+    "inversion": true,
+    "question": "Видели ли вы свою жизнь через 5-10 лет?"
+  },
+  {
+    "id": 78,
+    "period": "16-18_years",
+    "cluster": "Trauma_Awareness",
+    "score": 5,
+    "weight": 4,
+    "inversion": true,
+    "question": "Осознавали ли вы уже тогда, что ваше детство нанесло вам какие-то раны?"
+  },
+  {
+    "id": 79,
+    "period": "16-18_years",
+    "cluster": "Social_Contribution",
+    "score": 5,
+    "weight": 3,
+    "inversion": true,
+    "question": "Хотелось ли вам сделать мир лучше своим присутствием?"
+  },
+  {
+    "id": 80,
+    "period": "16-18_years",
+    "cluster": "Host_Status",
+    "score": 2,
+    "weight": 5,
+    "inversion": true,
+    "question": "Чувствовали ли вы себя «Хозяином» своей судьбы в момент совершеннолетия?"
+  }
+]

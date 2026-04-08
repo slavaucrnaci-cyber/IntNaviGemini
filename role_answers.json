@@ -1,0 +1,142 @@
+[
+  {
+    "id": "CASE_1_HEINZ",
+    "selected_option": "C",
+    "period": null,
+    "cluster": null,
+    "question": "Как вы оцените этот поступок спустя время?",
+    "score": null,
+    "scores": {
+      "role_conqueror": 4,
+      "moral_instrumental": 4,
+      "piaget_preop": 2
+    },
+    "weight": 1
+  },
+  {
+    "id": "CASE_2_PROJECT",
+    "selected_option": "C",
+    "period": null,
+    "cluster": null,
+    "question": "Какую стратегию вы предложите как руководитель?",
+    "score": null,
+    "scores": {
+      "role_integrator": 5,
+      "moral_universal": 4,
+      "piaget_postformal": 5
+    },
+    "weight": 1
+  },
+  {
+    "id": "CASE_3_TRUTH",
+    "selected_option": "C",
+    "period": null,
+    "cluster": null,
+    "question": "Ваши действия?",
+    "score": null,
+    "scores": {
+      "role_integrator": 4,
+      "moral_contract": 4,
+      "piaget_postformal": 5
+    },
+    "weight": 1
+  },
+  {
+    "id": "CASE_4_POWER",
+    "selected_option": "C",
+    "period": null,
+    "cluster": null,
+    "question": "Как вы распределите блага?",
+    "score": null,
+    "scores": {
+      "role_integrator": 5,
+      "moral_universal": 4,
+      "piaget_postformal": 5
+    },
+    "weight": 1
+  },
+  {
+    "id": "CASE_5_MISTAKE",
+    "selected_option": "C",
+    "period": null,
+    "cluster": null,
+    "question": "Ваша реакция?",
+    "score": null,
+    "scores": {
+      "role_peacekeeper": 5,
+      "moral_good_boy": 4,
+      "piaget_formal": 3
+    },
+    "weight": 1
+  },
+  {
+    "id": "CASE_6_RELIGION",
+    "selected_option": "C",
+    "period": null,
+    "cluster": null,
+    "question": "Как построите общение?",
+    "score": null,
+    "scores": {
+      "role_integrator": 5,
+      "moral_universal": 5,
+      "piaget_postformal": 5
+    },
+    "weight": 1
+  },
+  {
+    "id": "CASE_7_MONEY",
+    "selected_option": "C",
+    "period": null,
+    "cluster": null,
+    "question": "Ваш выбор?",
+    "score": null,
+    "scores": {
+      "role_integrator": 5,
+      "moral_contract": 4,
+      "piaget_postformal": 5
+    },
+    "weight": 1
+  },
+  {
+    "id": "CASE_8_TRADITION",
+    "selected_option": "C",
+    "period": null,
+    "cluster": null,
+    "question": "Что сделаете?",
+    "score": null,
+    "scores": {
+      "role_integrator": 5,
+      "moral_universal": 4,
+      "piaget_postformal": 5
+    },
+    "weight": 1
+  },
+  {
+    "id": "CASE_9_CONFLICT",
+    "selected_option": "C",
+    "period": null,
+    "cluster": null,
+    "question": "Ваша роль в этом?",
+    "score": null,
+    "scores": {
+      "role_peacekeeper": 5,
+      "moral_postconv": 4,
+      "piaget_formal": 5
+    },
+    "weight": 1
+  },
+  {
+    "id": "CASE_10_FUTURE",
+    "selected_option": "C",
+    "period": null,
+    "cluster": null,
+    "question": "Как вы к этому готовитесь?",
+    "score": null,
+    "scores": {
+      "role_integrator": 5,
+      "moral_universal": 5,
+      "piaget_postformal": 5
+    },
+    "weight": 1
+  }
+]
